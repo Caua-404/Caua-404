@@ -6,6 +6,7 @@
 
 
 ![Caua-404 GitHub stats](https://github-readme-stats.vercel.app/api?username=Caua-404&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caua-404&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia a dia
 
